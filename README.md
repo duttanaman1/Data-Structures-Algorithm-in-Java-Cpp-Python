@@ -56,13 +56,11 @@
 </tr>
 <tr>
 <td>C programming Handbook<td>
-<td><a href="
-https://github.com/duttanaman1/Data-Structures-Algorithm-in-Java-Cpp-Python/blob/main/c-handbook.pdf">Download</a></td>
+<td><a href="https://github.com/duttanaman1/Data-Structures-Algorithm-in-Java-Cpp-Python/blob/main/c-handbook.pdf">Download</a></td>
 </tr>
 <tr>
 <td>C programming Tutorials<td>
-<td><a href="
-https://github.com/duttanaman1/Data-Structures-Algorithm-in-Java-Cpp-Python/blob/main/cprogramming_tutorial.pdf">Download</a></td>
+<td><a href="https://github.com/duttanaman1/Data-Structures-Algorithm-in-Java-Cpp-Python/blob/main/cprogramming_tutorial.pdf">Download</a></td>
 </tr>
 <tr>
 <td>C tutor<td>
